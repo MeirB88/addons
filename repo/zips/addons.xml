@@ -470,6 +470,26 @@
     <description lang="en">MBTV Build tools</description>
 	<disclaimer>MBTV Build tools</disclaimer>
   </extension>
+</addon><addon id="service.subtitles.All_Subs" name="All Subs Flash" version="2.3.8" provider-name="Sbs">
+  <requires>
+    
+	<import addon="script.module.requests" version="2.9.1" />
+	<import addon="script.common.plugin.cache" version="2.5.5" />
+    <import addon="script.subskeys" version="1.0.1" />
+	<import addon="script.module.chardet" />
+	
+  </requires>
+  <extension point="xbmc.service" library="autosub.py" start="startup" /> 
+  <extension point="xbmc.subtitle.module" library="service.py" />
+  <extension point="xbmc.addon.metadata">
+        <assets>
+            <icon>icon.png</icon>
+        </assets>
+    <summary lang="en">All sites Subs Super Speed</summary>
+    <description lang="en">All sites Subs. Subcenter.wizdom,subcene,opensubtitles. Thanks to:Catz,wizdom,manacker,amet</description>
+    <language>en</language>
+    <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
+  </extension>
 </addon><addon id="skin.arctic.horizon.MBTV" name="Arctic Horizon" provider-name="jurialmunkey" version="0.5.74">
     <requires>
         <import addon="xbmc.gui" version="5.15.0" />
