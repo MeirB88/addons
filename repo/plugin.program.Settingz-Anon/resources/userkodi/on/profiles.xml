@@ -1,0 +1,126 @@
+<profiles>
+    <lastloaded>0</lastloaded>
+    <useloginscreen>true</useloginscreen>
+    <autologin>-1</autologin>
+    <nextIdProfile>2</nextIdProfile>
+    <profile>
+        <id>0</id>
+        <name>משתמש ראשי</name>
+        <directory pathversion="1">special://masterprofile/</directory>
+        <thumbnail pathversion="1">special://home/Graphics/doco/africa.jpg</thumbnail>
+        <hasdatabases>true</hasdatabases>
+        <canwritedatabases>true</canwritedatabases>
+        <hassources>true</hassources>
+        <canwritesources>true</canwritesources>
+        <lockaddonmanager>false</lockaddonmanager>
+        <locksettings>0</locksettings>
+        <lockfiles>false</lockfiles>
+        <lockmusic>false</lockmusic>
+        <lockvideo>false</lockvideo>
+        <lockpictures>false</lockpictures>
+        <lockprograms>false</lockprograms>
+        <lockmode>0</lockmode>
+        <lockcode>-</lockcode>
+        <lastdate>22/12/2018 - 11:35</lastdate>
+    </profile>
+    <profile>
+        <id>1</id>
+        <name>משתמש 1</name>
+        <directory pathversion="1">profiles/user1/</directory>
+        <thumbnail pathversion="1">special://home/Graphics/doco/AnimalDoco.jpg</thumbnail>
+        <hasdatabases>true</hasdatabases>
+        <canwritedatabases>true</canwritedatabases>
+        <hassources>true</hassources>
+        <canwritesources>true</canwritesources>
+        <lockaddonmanager>false</lockaddonmanager>
+        <locksettings>0</locksettings>
+        <lockfiles>false</lockfiles>
+        <lockmusic>false</lockmusic>
+        <lockvideo>false</lockvideo>
+        <lockpictures>false</lockpictures>
+        <lockprograms>false</lockprograms>
+        <lockmode>0</lockmode>
+        <lockcode>-</lockcode>
+        <lastdate>22/12/2018 - 00:27</lastdate>
+    </profile>
+    <profile>
+        <id>1</id>
+        <name>משתמש 2</name>
+        <directory pathversion="1">profiles/user2/</directory>
+        <thumbnail pathversion="1">special://home/Graphics/food/food5.jpg</thumbnail>
+        <hasdatabases>true</hasdatabases>
+        <canwritedatabases>true</canwritedatabases>
+        <hassources>true</hassources>
+        <canwritesources>true</canwritesources>
+        <lockaddonmanager>false</lockaddonmanager>
+        <locksettings>0</locksettings>
+        <lockfiles>false</lockfiles>
+        <lockmusic>false</lockmusic>
+        <lockvideo>false</lockvideo>
+        <lockpictures>false</lockpictures>
+        <lockprograms>false</lockprograms>
+        <lockmode>0</lockmode>
+        <lockcode>-</lockcode>
+        <lastdate>22/12/2018 - 00:27</lastdate>
+    </profile>
+    <profile>
+        <id>1</id>
+        <name>משתמש 3</name>
+        <directory pathversion="1">profiles/user3/</directory>
+        <thumbnail pathversion="1">special://home/Graphics/Kids/kidsil1.jpg</thumbnail>
+        <hasdatabases>true</hasdatabases>
+        <canwritedatabases>true</canwritedatabases>
+        <hassources>true</hassources>
+        <canwritesources>true</canwritesources>
+        <lockaddonmanager>false</lockaddonmanager>
+        <locksettings>0</locksettings>
+        <lockfiles>false</lockfiles>
+        <lockmusic>false</lockmusic>
+        <lockvideo>false</lockvideo>
+        <lockpictures>false</lockpictures>
+        <lockprograms>false</lockprograms>
+        <lockmode>0</lockmode>
+        <lockcode>-</lockcode>
+        <lastdate>22/12/2018 - 00:20</lastdate>
+    </profile>
+    <profile>
+        <id>1</id>
+        <name>משתמש 4</name>
+        <directory pathversion="1">profiles/user4/</directory>
+        <thumbnail pathversion="1">special://home/Graphics/sport/wwe.jpg</thumbnail>
+        <hasdatabases>true</hasdatabases>
+        <canwritedatabases>true</canwritedatabases>
+        <hassources>true</hassources>
+        <canwritesources>true</canwritesources>
+        <lockaddonmanager>false</lockaddonmanager>
+        <locksettings>0</locksettings>
+        <lockfiles>false</lockfiles>
+        <lockmusic>false</lockmusic>
+        <lockvideo>false</lockvideo>
+        <lockpictures>false</lockpictures>
+        <lockprograms>false</lockprograms>
+        <lockmode>0</lockmode>
+        <lockcode>-</lockcode>
+        <lastdate>22/12/2018 - 00:28</lastdate>
+    </profile>
+    <profile>
+        <id>1</id>
+        <name>משתמש 5</name>
+        <directory pathversion="1">profiles/user5/</directory>
+        <thumbnail pathversion="1">special://home/Graphics/addons/premium.jpg</thumbnail>
+        <hasdatabases>true</hasdatabases>
+        <canwritedatabases>true</canwritedatabases>
+        <hassources>true</hassources>
+        <canwritesources>true</canwritesources>
+        <lockaddonmanager>false</lockaddonmanager>
+        <locksettings>0</locksettings>
+        <lockfiles>false</lockfiles>
+        <lockmusic>false</lockmusic>
+        <lockvideo>false</lockvideo>
+        <lockpictures>false</lockpictures>
+        <lockprograms>false</lockprograms>
+        <lockmode>0</lockmode>
+        <lockcode>-</lockcode>
+        <lastdate>22/12/2018 - 00:28</lastdate>
+    </profile>
+</profiles>

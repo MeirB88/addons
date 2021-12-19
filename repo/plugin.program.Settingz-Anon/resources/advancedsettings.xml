@@ -1,0 +1,15 @@
+<advancedsettings>
+    <pvr>
+        <minvideocachelevel>60</minvideocachelevel>
+        <minaudiocachelevel>60</minaudiocachelevel>
+		<cacheindvdplayer>true</cacheindvdplayer> 
+    </pvr>
+  <cache>
+    <buffermode>0</buffermode>
+   <readfactor>2</readfactor>
+    <memorysize>154857600</memorysize>
+  </cache>
+ <imageres>720</imageres>
+ <fanartres>1080</fanartres>
+  <packagefoldersize>200</packagefoldersize>
+</advancedsettings>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+	<category label="התקנה">
+		<setting id="auto_rd" label="[COLOR white]הגדר חשבון RD[/COLOR]" type="bool" default="false" />
+		<setting id="rd_user" type="text" label="שם משתמש" visible="eq(-1,true)" default="" />
+		<setting id="rd_pass" type="text" option = "hidden" label="סיסמה" visible="eq(-2,true)" default="" />
+		</category>
+</settings>

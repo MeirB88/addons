@@ -1,0 +1,10 @@
+<settings>
+    <setting id="ask_dirname" value="false" />
+    <setting id="custom_dirname" value="false" />
+    <setting id="custom_system" value="false" />
+    <setting id="custom_version" value="true" />
+    <setting id="dirname" value="" />
+    <setting id="plugin_name" value="python-libtorrent v.1.1.1g" />
+    <setting id="set_system" value="0" />
+    <setting id="set_version" value="4" />
+</settings>

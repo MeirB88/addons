@@ -1,0 +1,3 @@
+﻿The Thrrent addon was set to find torrents
+and play them using the Elemntum palyer.
+No need to change any setting for that.

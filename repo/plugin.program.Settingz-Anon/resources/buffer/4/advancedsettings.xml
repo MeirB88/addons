@@ -1,0 +1,10 @@
+<advancedsettings>
+  <cache>
+    <buffermode>1</buffermode>
+   <readfactor>2</readfactor>
+    <memorysize>367001600</memorysize>
+  </cache>
+ <imageres>720</imageres>
+ <fanartres>1080</fanartres>
+  <packagefoldersize>200</packagefoldersize>
+</advancedsettings>

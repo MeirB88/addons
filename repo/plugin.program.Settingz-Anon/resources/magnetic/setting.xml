@@ -1,0 +1,8 @@
+<settings>
+    <setting id="mode_debug" value="false" />
+    <setting id="movies_folder" value="special://temp/movies" />
+    <setting id="plugin" value="Torrenter" />
+    <setting id="shows_folder" value="special://temp/shows" />
+    <setting id="timeout" value="30" />
+    <setting id="use_cloudhole" value="false" />
+</settings>

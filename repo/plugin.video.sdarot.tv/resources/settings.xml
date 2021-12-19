@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <setting id="username" label="שם משתמש" type="text" default="" />
+    <setting id="Password_sdr" label="סיסמא" type="text" default="" option="hidden" enable="!eq(-1,)" />
+	<setting id="del_cache" label="נקה קאש" type="action" action="RunPlugin(plugin://plugin.video.sdarot.tv/clean)" />
+	<setting id="max_quality" label="איכות מקסימלית" type="labelenum" values="1080|480|720" default="1080" />
+    <setting id="dns" type="text"  label="DNS" default="1.1.1.1"/>
+</settings>

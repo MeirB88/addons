@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.MBTV.pairwith19"
+  name="[B][COLOR darkorchid]MB[/COLOR][COLOR royalblue]TV[/COLOR] Pair (19)[/B]"
+  version="1.2" 
+  provider-name="MeirB88">
+  <requires>
+    <!-- <import addon="xbmc.python" version="2.1.0"/> -->
+  </requires>
+  <extension point="xbmc.python.script" library="addon.py">
+    <provides>MeirBuild</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+	<assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+    </assets>
+    <summary lang="en">MeirBuild Pair Menu System</summary>
+    <description lang="en">MeirBuild Pair Menu System</description>
+	<disclaimer>MeirBuild Pair Menu System</disclaimer>
+  </extension>
+</addon>

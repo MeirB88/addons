@@ -1,0 +1,62 @@
+<settings>
+    <setting id="android_app_id" value="org.xbmc.xbmc" />
+    <setting id="base_bitsnoop" value="http://bitsnoop.com" />
+    <setting id="base_btdigg" value="https://torrents.me/site/btdigg/" />
+    <setting id="base_cpb" value="http://cpasbien.pw" />
+    <setting id="base_extratorrent" value="https://extratorrent.unblocker.cc/" />
+    <setting id="base_eztv" value="https://eztv.ag" />
+    <setting id="base_kickass" value="https://kickassto.co" />
+    <setting id="base_nyaa" value="http://www.nyaa.se" />
+    <setting id="base_tpb" value="https://thepiratebay.cr" />
+    <setting id="base_yify" value="https://yts.ag" />
+    <setting id="base_zelka" value="http://zelka.org" />
+    <setting id="bitsnoop_label" value="BitSnoop Search" />
+    <setting id="bitsnoop_picture" value="http://i.imgur.com/kYDKHGo.png" />
+    <setting id="btdigg_label" value="BTDigg Search" />
+    <setting id="btdigg_picture" value="http://i.imgur.com/kYDKHGo.png" />
+    <setting id="cpb_label" value="CPasBien - Torrent Fran&#231;ais [FR]" />
+    <setting id="cpb_picture" value="" />
+    <setting id="display_bitsnoop" value="false" />
+    <setting id="display_btdigg" value="false" />
+    <setting id="display_cpb" value="false" />
+    <setting id="display_extratorrent" value="false" />
+    <setting id="display_eztv" value="true" />
+    <setting id="display_kickass" value="false" />
+    <setting id="display_nyaa" value="false" />
+    <setting id="display_tpb" value="true" />
+    <setting id="display_yify" value="false" />
+    <setting id="display_zelka" value="false" />
+    <setting id="dlpath" value="C:\Users\SuperAlpha\AppData\Roaming\Kodi\cache\" />
+    <setting id="download_full_file" value="false" />
+    <setting id="encryption" value="1" />
+    <setting id="extratorrent_label" value="ExtraTorrent" />
+    <setting id="extratorrent_picture" value="http://i.imgur.com/kYDKHGo.png" />
+    <setting id="eztv_label" value="TV Shows" />
+    <setting id="eztv_picture" value="http://i.imgur.com/FDwFjse.png" />
+    <setting id="ga_disable" value="true" />
+    <setting id="immunicity" value="false" />
+    <setting id="kat_label" value="Kickass Torrents" />
+    <setting id="kat_picture" value="http://i.imgur.com/kYDKHGo.png" />
+    <setting id="keep_files" value="false" />
+    <setting id="library_movies_path" value="" />
+    <setting id="library_tv_path" value="" />
+    <setting id="magnet_boost" value="true" />
+    <setting id="max_download_rate" value="" />
+    <setting id="max_upload_rate" value="" />
+    <setting id="min_download_size" value="20" />
+    <setting id="nyaa_label" value="NyaaTorrents" />
+    <setting id="nyaa_picture" value="http://i.imgur.com/kYDKHGo.png" />
+    <setting id="porn" value="false" />
+    <setting id="pref_language" value="system" />
+    <setting id="sublang1" value="Hebrew" />
+    <setting id="sublang2" value="Hebrew" />
+    <setting id="subtitles" value="true" />
+    <setting id="tpb_label" value="The Pirate Bay" />
+    <setting id="tpb_picture" value="http://i.imgur.com/kYDKHGo.png" />
+    <setting id="yify_label" value="Movies" />
+    <setting id="yify_picture" value="http://i.imgur.com/PrwiRH8.png" />
+    <setting id="z_pass" value="" />
+    <setting id="z_usr" value="" />
+    <setting id="zelka_label" value="Zelka Search" />
+    <setting id="zelka_picture" value="http://i.imgur.com/kYDKHGo.png" />
+</settings>
