@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.mbtvaddons" name="[COLOR E55174]MB[/COLOR][COLOR D0508F]TV[/COLOR]ons Repository" version="2.0" provider-name="MeirB88">
+<addon id="repository.mbtvaddons" name="[COLOR orchid]MBTV[/COLOR] Addons Repository" version="2.0.1" provider-name="MeirB88">
     <extension point="xbmc.addon.repository" name="Example Repository">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/MeirB88/addons/master/repo/zips/addons.xml</info>
@@ -8,8 +8,8 @@
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary>[COLOR E55174]MB[/COLOR][COLOR D0508F]TV[/COLOR]Repository</summary>
-        <description>Addons for [COLOR E55174]MB[/COLOR][COLOR D0508F]TV[/COLOR] build.</description>
+        <summary>[COLOR orchid]MBTV[/COLOR]Repository</summary>
+        <description>Addons for [COLOR orchid]MBTV[/COLOR] build.</description>
         <disclaimer></disclaimer> 
         <platform>all</platform>
         <assets>
