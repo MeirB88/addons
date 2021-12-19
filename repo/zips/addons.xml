@@ -61,6 +61,26 @@
             <fanart>fanart.jpg</fanart>
     </assets>
     </extension>
+</addon><addon id="plugin.video.telemedia" name="Telemedia 2.0" version="2.1.4" provider-name="Pavel Durov">
+  <requires>
+	<import addon="script.module.requests" />
+	<import addon="script.module.pyxbmct" version="1.1.4" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.service" library="service.py" start="startup" />
+  <extension point="xbmc.addon.metadata">
+    <summary lang="he">Telegram media for kodi,\n Thanks to "Aliaksei Levin" without him none of this would have been possiable</summary>
+    <description lang="he">Telegram media for kodi</description>
+    <platform>all</platform>
+ <language>en</language>
+ <disclaimer> report any issues with</disclaimer>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+  </extension>
 </addon><addon id="plugin.video.thorrent" name="Thorrent S" version="1.0.7" provider-name="Darkness">
 	   
   <requires>
